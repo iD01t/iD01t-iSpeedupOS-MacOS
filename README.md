@@ -1,4 +1,7 @@
-# iSpeedup OS v0.1
+# iSpeedup OS v0.1!
+
+[iSpeedup_preview](https://github.com/iD01t/iSpeedupOS/assets/140584560/5ffff63a-275a-4ebf-b080-653c5d6bae05)
+
 
 Tweak and boost the speed of your old Mac.
 
