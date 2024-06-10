@@ -11,6 +11,8 @@ Install guide:
 
 - Install Homebrew and Python PKGs
 
+  https://drive.google.com/drive/folders/1ROXn2sJRv_b-nJMJB6DV0OzhuKHvDMjA?usp=share_link
+
 
 - Open Terminal (Utilities)
 
