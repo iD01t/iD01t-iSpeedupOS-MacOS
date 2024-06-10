@@ -9,7 +9,7 @@ Install guide:
 - Put iSpeedupOS folder on your desktop 
 
 
-- Install all the APPS in the INSTALLATION folder manually
+- Install Homebrew and Python PKGs
 
 
 - Open Terminal (Utilities)
