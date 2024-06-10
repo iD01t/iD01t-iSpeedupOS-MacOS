@@ -6,7 +6,7 @@ Tweak and boost the speed of your old Mac.
 Install guide:
 
 
-- Put iSpeedup folder on your desktop 
+- Put iSpeedupOS folder on your desktop 
 
 
 - Install all the APPS in the INSTALLATION folder manually
@@ -36,11 +36,14 @@ sudo python3 (Drag and drop iSpeedupOS.py here)
 
 ---------------------------------------
 
+
+
 Dependencies:
 - Python3
 - Brew
 - Pillow
-- 
+
+
 
 Please give me some feedback!
 
